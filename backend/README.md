@@ -170,3 +170,4 @@ Joinable: query user credit then check with peerShareDetail credit
 > | `400`     | `application/json` | `{"msg": "something wrong"}`           |
 
 </details>
+
